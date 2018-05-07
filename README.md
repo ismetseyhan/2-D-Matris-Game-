@@ -1,5 +1,6 @@
 # 2-D-Matris-Game-
 ---------------INTRODUCTION------------------
+
 In this experiment, you are expected to implement a game which is runned with
 commands from an input file. This game is based on a fantastic adventure board game and runs
 on a given multi-dimensional array. There will be two sides (monsters, heroes) and they will
@@ -7,6 +8,7 @@ attack to each other. After given commands are executed, your program should pri
 outputs into a text file such as current situation of the map and status of the characters. Details
 are explained below.
 -----------BACKGROUND INFORMATION-----------
+
 Adventure board games involve fantastical elements like heroes which explore the given
 map and the monsters they encounter during this exploration. Both heroes and monsters have
 different properties such as special attacks, health and they fight with each other accordingly.
